@@ -165,8 +165,8 @@ The **RAGBackend** facade orchestrates all components and persists state via `ap
 ### Docker (recommended)
 
 ```bash
-git clone https://github.com/mohamed-elkholy95/rag-document-qa.git
-cd rag-document-qa
+git clone https://github.com/MitGandhi4/Rag_Doc.git
+cd Rag_Doc
 docker compose up --build
 ```
 
@@ -439,7 +439,7 @@ All optional. The system runs fully without any keys using local ChromaDB embedd
 
 ## Author
 
-**Mohamed Elkholy** — [GitHub](https://github.com/mohamed-elkholy95)
+**MitGandhi4** — [GitHub](https://github.com/MitGandhi4)
 
 ---
 
